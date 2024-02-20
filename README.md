@@ -1,7 +1,8 @@
 - 👋 Aloha, @mblackman is what they call me around these parts
-- 👀 My interests are biking, gaming, and books.
+- ❤️ My interests are biking, gaming, and books.
 - 🌱 I’m currently learning how to build performant and scalable projects in Unity.
-- 📫 You can find me on [Twitter](https://twitter.com/RamboSmitten)
+- 📫 You can find me on [Mastodon](https://mastodon.gamedev.place/@milehighcoder)
+- 👀 My personal place on the web [milehighcoder](https://milehighcoder.com)
 
 <!---
 mblackman/mblackman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
