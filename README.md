@@ -1,4 +1,4 @@
-- 👋 Aloha, @mblackman is what they call me around these parts
+- 👋 Hallo, @mblackman is what they call me around these parts
 - ❤️ My interests are biking, gaming, and books.
 - 🌱 I’m working on my own [2D game engine](https://github.com/mblackman/Octarine-Engine) and building web services in Google Cloud.
 - 📫 You can find me on [Mastodon](https://mastodon.gamedev.place/@milehighcoder) or [Bluesky](https://bsky.app/profile/milehighcoder.com)
