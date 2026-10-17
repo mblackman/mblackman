@@ -1,8 +1,22 @@
-- 👋 Hallo, @mblackman is what they call me around these parts
+- 👋 Hallo, @mblackman is what they call me around these parts.
 - ❤️ My interests are biking, gaming, and books.
-- 🌱 I’m working on my own [2D game engine](https://github.com/mblackman/Octarine-Engine) and building web services in Google Cloud.
+- 🌱 I’m working on my own 2D ECS game engine along with some games I someday hope to release.
 - 📫 You can find me on [Mastodon](https://mastodon.gamedev.place/@milehighcoder) or [Bluesky](https://bsky.app/profile/milehighcoder.com)
 - 👀 My place on the web [milehighcoder.com](https://milehighcoder.com)
+
+---
+
+## TiddlyWiki
+
+I have built many plugins and tech for TiddlyWiki that you can easily access in my library [tw5-plugin-library](https://mblackman.github.io/tw5-plugin-library/)
+
+* **[Slipstream](https://github.com/mblackman/tiddlywiki-slipstream)**: A modern, 3-column workspace theme for desktop and mobile that adds pinned navigation, slide-up panels, and a focused reading layout. It also includes a wide mode ideal for dashboards and boards.
+* **[Timelord](https://github.com/mblackman/tiddlywiki-timelord)**: Provides automated revision history and visual diff tracking for tiddlers using efficient delta compression. It lets you review past edits, restore deleted tiddlers, and track changes across all fields.
+* **[Coffee Tracker](https://github.com/mblackman/tiddlywiki-coffee-tracker)**: A dedicated companion for logging coffee brews, tracking beans, and dialing in recipes. It features automatic roast freshness indicators and aggregate brewing statistics.
+* **[Media Importer](https://github.com/mblackman/tiddlywiki-media-importer)**: Lets you search and import metadata for books, movies, TV shows, comics, and video games directly into your wiki. It also includes widgets for logging and reviewing your daily media consumption.
+* **[Journal](https://github.com/mblackman/tiddlywiki-journal)**: A structured personal journaling framework featuring templates for daily, weekly, monthly, and yearly reviews. It rolls up daily habits, wins, and reflections into broader retrospectives.
+* **[Day.js Plugin](https://github.com/mblackman/tiddlywiki-dayjs-plugin)**: Brings the lightweight Day.js library to TiddlyWiki via the `<<dayjs>>` macro. It makes formatting, ISO 8601 parsing, and calendar week calculations effortless.
+* **[TiddlyPWA](https://github.com/mblackman/tiddlypwa)**: Transforms TiddlyWiki into an installable, offline-first Progressive Web App with end-to-end encrypted storage. Paired with a lightweight self-hosted backend, it syncs edits across all your devices in real time.
 
 ---
 
