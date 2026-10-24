@@ -4,8 +4,6 @@
 - 📫 You can find me on [Mastodon](https://mastodon.gamedev.place/@milehighcoder) or [Bluesky](https://bsky.app/profile/milehighcoder.com)
 - 👀 My place on the web [milehighcoder.com](https://milehighcoder.com)
 
----
-
 ## TiddlyWiki
 
 I have built many plugins and tech for TiddlyWiki that you can easily access in my library [tw5-plugin-library](https://mblackman.github.io/tw5-plugin-library/)
