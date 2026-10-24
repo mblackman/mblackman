@@ -1,12 +1,10 @@
-- 👋 Hallo, @mblackman is what they call me around these parts.
-- ❤️ My interests are biking, gaming, and books.
-- 🌱 I’m working on my own 2D ECS game engine along with some games I someday hope to release.
-- 📫 You can find me on [Mastodon](https://mastodon.gamedev.place/@milehighcoder) or [Bluesky](https://bsky.app/profile/milehighcoder.com)
-- 👀 My place on the web [milehighcoder.com](https://milehighcoder.com)
+# Matt Blackman
+Software engineer based in Denver, CO. I build creative software, personal knowledge management tools, and 2D game engines.
+[milehighcoder.com](https://milehighcoder.com) · [Bluesky](https://bsky.app/profile/milehighcoder.com) · [Mastodon](https://mastodon.gamedev.place/@milehighcoder)
 
 ## TiddlyWiki
 
-I have built many plugins and tech for TiddlyWiki that you can easily access in my library [tw5-plugin-library](https://mblackman.github.io/tw5-plugin-library/)
+I build extensible plugins and themes for [TiddlyWiki](https://tiddlywiki.com). You can test and install the full collection from the **[TW5 Plugin Library](https://mblackman.github.io/tw5-plugin-library/)**.
 
 * **[Slipstream](https://github.com/mblackman/tiddlywiki-slipstream)**: A modern, 3-column workspace theme for desktop and mobile that adds pinned navigation, slide-up panels, and a focused reading layout. It also includes a wide mode ideal for dashboards and boards.
 * **[Timelord](https://github.com/mblackman/tiddlywiki-timelord)**: Provides automated revision history and visual diff tracking for tiddlers using efficient delta compression. It lets you review past edits, restore deleted tiddlers, and track changes across all fields.
