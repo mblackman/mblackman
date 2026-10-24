@@ -1,18 +1,22 @@
 # Matt Blackman
+
 Software engineer based in Denver, CO. I build creative software, personal knowledge management tools, and 2D game engines.
-[milehighcoder.com](https://milehighcoder.com) · [Bluesky](https://bsky.app/profile/milehighcoder.com) · [Mastodon](https://mastodon.gamedev.place/@milehighcoder)
+
+[![Website](https://img.shields.io/badge/milehighcoder.com-333?style=flat-square&logo=safari&logoColor=white)](https://milehighcoder.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/milehighcoder.com)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.gamedev.place/@milehighcoder)
 
 ## TiddlyWiki
 
 I build extensible plugins and themes for [TiddlyWiki](https://tiddlywiki.com). You can test and install the full collection from the **[TW5 Plugin Library](https://mblackman.github.io/tw5-plugin-library/)**.
 
-* **[Slipstream](https://github.com/mblackman/tiddlywiki-slipstream)**: A modern, 3-column workspace theme for desktop and mobile that adds pinned navigation, slide-up panels, and a focused reading layout. It also includes a wide mode ideal for dashboards and boards.
-* **[Timelord](https://github.com/mblackman/tiddlywiki-timelord)**: Provides automated revision history and visual diff tracking for tiddlers using efficient delta compression. It lets you review past edits, restore deleted tiddlers, and track changes across all fields.
-* **[Coffee Tracker](https://github.com/mblackman/tiddlywiki-coffee-tracker)**: A dedicated companion for logging coffee brews, tracking beans, and dialing in recipes. It features automatic roast freshness indicators and aggregate brewing statistics.
-* **[Media Importer](https://github.com/mblackman/tiddlywiki-media-importer)**: Lets you search and import metadata for books, movies, TV shows, comics, and video games directly into your wiki. It also includes widgets for logging and reviewing your daily media consumption.
-* **[Journal](https://github.com/mblackman/tiddlywiki-journal)**: A structured personal journaling framework featuring templates for daily, weekly, monthly, and yearly reviews. It rolls up daily habits, wins, and reflections into broader retrospectives.
-* **[Tiddly Familiar](https://github.com/mblackman/tiddly-familiar)**: Talk with your notes with AI-assisted intelligence to find buried information.
-* **[TiddlyPWA](https://github.com/mblackman/tiddlypwa)**: Transforms TiddlyWiki into an installable, offline-first Progressive Web App with end-to-end encrypted storage. Paired with a lightweight self-hosted backend, it syncs edits across all your devices in real time.
+* **[Slipstream](https://github.com/mblackman/tiddlywiki-slipstream)** — Modern 3-column & mobile layout with pinned navigation and responsive slide-up panels.
+* **[Timelord](https://github.com/mblackman/tiddlywiki-timelord)** — Automated revision history and visual diff tracking using delta compression.
+* **[Coffee Tracker](https://github.com/mblackman/tiddlywiki-coffee-tracker)** — Brew logger with roast freshness indicators and dialing statistics.
+* **[Media Importer](https://github.com/mblackman/tiddlywiki-media-importer)** — Search, import, and log books, movies, games, and podcasts into your wiki.
+* **[Journal](https://github.com/mblackman/tiddlywiki-journal)** — Hierarchical journaling rolling daily entries into weekly, monthly, and yearly reviews.
+* **[Tiddly Familiar](https://github.com/mblackman/tiddly-familiar)** — Self-hosted AI companion for streaming chat, summarization, and tag suggestions.
+* **[TiddlyPWA](https://github.com/mblackman/tiddlypwa)** — Offline-first Progressive Web App with zero-knowledge encrypted sync.
 
 ---
 
